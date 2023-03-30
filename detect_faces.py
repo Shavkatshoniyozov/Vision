@@ -24,3 +24,4 @@ for (x, y, w, h) in faceRects:
 cv2.imshow("Faces", image)
 cv2.waitKey(0)  
 
+
