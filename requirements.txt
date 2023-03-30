@@ -1,0 +1,11 @@
+pandas
+numpy <1.24
+opencv-contrib-python
+matplotlib
+scikit-image
+scikit-learn
+mahotas
+scipy
+face-detector
+argparse
+imutils
