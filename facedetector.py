@@ -13,4 +13,3 @@ class FaceDetector:
             minSize = minSize,
             flags = cv2.CASCADE_SCALE_IMAGE)
         return rects
-    
